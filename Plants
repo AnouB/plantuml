@@ -1,0 +1,26 @@
+        "id": 1,
+        "plants": [
+            {
+                "amount": 2,
+                "id": 23,
+                "variety": "Achillea millefolia Desert Eve Deep Rose"
+            },
+            {
+                "amount": 1,
+                "id": 24,
+                "variety": "Achillea millefolium Desert Eve Red"
+            }
+        ],
+        "pot": {
+            "id": 22,
+            "label": "Desch 17",
+            "volume": 2
+        },
+        "productname": "Achillea Mix",
+        "substrate": {
+            "fertilized": true,
+            "id": 71,
+            "turffree": false,
+            "type": "standard"
+        }
+    },
